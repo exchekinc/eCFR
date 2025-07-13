@@ -36,4 +36,4 @@ ExChek, Inc. is committed to protecting the confidentiality of the data processe
 
 Contact
 
-For questions or support, contact the ExChek, Inc. compliance team at compliance@exchek.com.
+For questions or support, contact the ExChek, Inc. compliance team at compliance@exchek.io.
